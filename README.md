@@ -1,11 +1,11 @@
 ## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=xiangju0208&base=10000&&abbreviated=true&color=green)
+![](https://komarev.com/ghpvc/?username=xiangju0208&base=1000&&abbreviated=true&color=green)
 
 
 
 <!--
 **xiangju0208/xiangju0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=xiangju0208&base=10000&&abbreviated=true&color=green)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
