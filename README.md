@@ -1,5 +1,5 @@
 ## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=xiangju0208&base=10000)
+![](https://komarev.com/ghpvc/?username=xiangju0208&base=10000&&abbreviated=true&color=green)
 
 
 
