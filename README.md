@@ -1,5 +1,6 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?xiangju0208)
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=xiangju0208)
+
 
 
 <!--
